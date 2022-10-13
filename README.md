@@ -8,7 +8,7 @@
   
   <img align="center" alt="Daniely-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="right" alt="https://picrew.me/share?cd=b5c2bMRBow" height="150" style="border-radius:50px;" src="https://picrew.me/share?cd=b5c2bMRBow">
+  <img align="right" alt="Daniely-pic" height="150" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/1006938197982466050/1030147919216660480/download20221004123231.png">
 </div>
 
   <a href="https://www.instagram.com/daniely_losi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

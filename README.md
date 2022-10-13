@@ -1,9 +1,9 @@
  <img align="right" alt="Daniely-pic" height="150" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/1006938197982466050/1030147919216660480/download20221004123231.png">
 </div>
 
-✨Daniely  Losi ✨
+✨Daniely  Losi. 
 
-📚 Aprendendo 📚
+📚 Aprendendo.
 
 
 </div>

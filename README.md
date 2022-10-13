@@ -2,12 +2,14 @@
 
 📚 Aprendendo 📚
 
-
-
-<img align="right" alt="Dani-pic" height="150" style="border-radius:50px;" src=" https://picrew.me/share?cd=b5c2bMRBow ">
 </div>
-</a>
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Daniely-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  
+  <img align="center" alt="Daniely-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  <img align="right" alt="https://picrew.me/share?cd=b5c2bMRBow" height="150" style="border-radius:50px;" src="https://picrew.me/share?cd=b5c2bMRBow">
+</div>
 
   <a href="https://instagram.com/daniely" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/Daniely Losi#8023" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 

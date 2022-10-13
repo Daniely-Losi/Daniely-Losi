@@ -8,6 +8,9 @@
   
   <img align="center" alt="Daniely-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
+  <a href="  " target="_blank"><img src="https://aleen42.github.io/badges/src/illustrator.svg" target="_blank"></a>
+
+  
   <img align="right" alt="Daniely-pic" height="150" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/1006938197982466050/1030147919216660480/download20221004123231.png">
 </div>
 
@@ -17,7 +20,6 @@
       <a href = "mailto:danylosi15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       
       
- <a href="  " target="_blank"><img src="https://aleen42.github.io/badges/src/illustrator.svg" target="_blank"></a>
 
 
 

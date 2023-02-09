@@ -11,6 +11,8 @@
   <img align="center" alt="Daniely-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   
   <img align="center" alt="Daniely-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Daniely-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
   
   <a href="  " target="_blank"><img src="https://aleen42.github.io/badges/src/illustrator.svg" target="_blank"></a>
 

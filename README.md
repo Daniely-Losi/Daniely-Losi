@@ -1,5 +1,5 @@
  <img align="right" alt="Daniely-pic" height="150" style="border-radius:60px;" 
-      src="..">
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBW3lT9wKUn9-1E_waeWFS3tL516r1Mt34dtqJJpX_emBimg4Aahwp--kKRaA_NYycHE&usqp=CAU">
 </div>
 
 ✨Daniely  Losi. 
